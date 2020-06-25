@@ -1,0 +1,132 @@
+a{
+    text-decoration:none;
+    padding:15px;
+    padding-left:15px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+
+
+font: #000000;
+}
+.abc{
+    
+width: 84px;
+height: 28px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+}
+::placeholder {
+ 
+width: 191px;
+height: 22px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #8D8989;
+
+}
+body{
+
+background: #EEF7BC;}
+h1{
+margin-top:30px;
+text-align:center;
+
+
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+
+
+color: #766A6A;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+td{
+width: 61px;
+height: 37px;
+
+font-family: Preah Vihear;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 28px;
+
+color: #423737;
+
+mix-blend-mode: normal;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+input{
+background: #EFEDED;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+border:none;
+width: 205px;
+height: 31px;
+}
+.errormessage{
+font-family: Preah Vihear;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+
+
+color: #F90C0C;
+
+}
+
+.submit{
+
+
+width: 106px;
+height: 34px;
+left: 116px;
+top: 159px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+background: rgba(187, 186, 183, 0.4);
+border-radius: 10px;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+	margin-top: 50;
+}
+.information{
+
+    margin: 0 auto;
+	margin-top: 50;
+align :center;
+
+width: 200px;
+height: 38px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 16px;
+
+color: #9BDA14;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
